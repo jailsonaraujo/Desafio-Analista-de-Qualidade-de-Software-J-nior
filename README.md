@@ -2,6 +2,9 @@
 
 # User Stories para o Beedoo QA Challenge
 
+## Evidencias de testes
+[Link para o Google Drive](https://drive.google.com/drive/folders/17foBQbttk_nhQxqxPBWvcH-qYS_mEXtZ?usp=sharing)
+
 ---
 
 ## User Story: Cadastro de Curso
