@@ -2,7 +2,7 @@
 
 # User Stories para o Beedoo QA Challenge
 ## Cenários e casos de testes
-[Link para o Google Drive]([https://drive.google.com/drive/folders/17foBQbttk_nhQxqxPBWvcH-qYS_mEXtZ?usp=sharing](https://docs.google.com/spreadsheets/d/1uJnwY4tumCcUn_f1kPYk-x6WJG8x9Pw6ud-yI3iPh_U/edit?usp=sharing))
+[Link para o Google Drive]([https://drive.google.com/drive/folders/17foBQbttk_nhQxqxPBWvcH-qYS_mEXtZ?usp=sharing](https://docs.google.com/spreadsheets/d/1uJnwY4tumCcUn_f1kPYk-x6WJG8x9Pw6ud-yI3iPh_U/edit?usp=sharing)
 
 ## Evidencias de testes
 [Link para o Google Drive](https://drive.google.com/drive/folders/17foBQbttk_nhQxqxPBWvcH-qYS_mEXtZ?usp=sharing)
